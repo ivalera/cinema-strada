@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/cinema-strada/static/css/main.e428f339.css",
-    "main.js": "/cinema-strada/static/js/main.65f4e214.js",
+    "main.css": "/cinema-strada/static/css/main.2c01ecbe.css",
+    "main.js": "/cinema-strada/static/js/main.8477120e.js",
     "static/js/453.4ffac0a6.chunk.js": "/cinema-strada/static/js/453.4ffac0a6.chunk.js",
     "index.html": "/cinema-strada/index.html",
-    "main.e428f339.css.map": "/cinema-strada/static/css/main.e428f339.css.map",
-    "main.65f4e214.js.map": "/cinema-strada/static/js/main.65f4e214.js.map",
+    "main.2c01ecbe.css.map": "/cinema-strada/static/css/main.2c01ecbe.css.map",
+    "main.8477120e.js.map": "/cinema-strada/static/js/main.8477120e.js.map",
     "453.4ffac0a6.chunk.js.map": "/cinema-strada/static/js/453.4ffac0a6.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e428f339.css",
-    "static/js/main.65f4e214.js"
+    "static/css/main.2c01ecbe.css",
+    "static/js/main.8477120e.js"
   ]
 }
